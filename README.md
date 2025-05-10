@@ -3,14 +3,16 @@
 ### • Principais linguagens de estudo: Python.
 
 
-## Meios de Contato
+# Meios de Contato
 ### • [Visite meu LinkedIn](https://www.linkedin.com/in/guilherme-ribeiro-de-paula-575839358/)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermerp16&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerp16&layout=compact&theme=radical)
 ![nsei](https://pa1.aminoapps.com/6425/d546e1cdcc6e0dd68cacfbb54709bc780356cc5d_hq.gif)
+[python]([<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
 
+<div>
 
-
+  <div>
 <!--
 **guilhermerp16/guilhermerp16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
