@@ -1,4 +1,14 @@
-## Hi there 👋
+##  Olá! Sou o Guilherme Ribeiro.
+### • Estou no primeiro semestre da faculdade CEUB cursando: ciência da computação
+### • Principais linguagens de estudo: Python.
+
+
+## Meios de Contato
+### • [Visite meu LinkedIn](https://www.linkedin.com/in/guilherme-ribeiro-de-paula-575839358/)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermerp16&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerp16&layout=compact&theme=radical)
+![]()
+
 
 <!--
 **guilhermerp16/guilhermerp16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
