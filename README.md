@@ -12,7 +12,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerp16&layout=compact&theme=radical)
 ![nsei](https://pa1.aminoapps.com/6425/d546e1cdcc6e0dd68cacfbb54709bc780356cc5d_hq.gif)
 <div> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="linkedin.com/in/guilherme-ribeiro-de-paula-575839358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
