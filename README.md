@@ -1,6 +1,6 @@
 ##  Olá! Sou o Guilherme Ribeiro.
 ### • Estou no primeiro semestre da faculdade CEUB cursando: ciência da computação
-### • Principais linguagens de estudo: Python.
+### • Principais linguagens de estudo: Python e html.
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 
