@@ -4,17 +4,12 @@
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 
-
 # Meios de Contato
 ### • [LinkedIn](https://www.linkedin.com/in/guilherme-ribeiro-de-paula-575839358/) <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilhermerp16&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerp16&layout=compact&theme=radical)
 ![nsei](https://pa1.aminoapps.com/6425/d546e1cdcc6e0dd68cacfbb54709bc780356cc5d_hq.gif)
-<div> 
-  <a href="linkedin.com/in/guilherme-ribeiro-de-paula-575839358" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 <div>
 
