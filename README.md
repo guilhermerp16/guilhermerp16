@@ -12,6 +12,19 @@
 ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=guilhermerp16&theme=react-dark)
 ![nsei](https://pa1.aminoapps.com/6425/d546e1cdcc6e0dd68cacfbb54709bc780356cc5d_hq.gif)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=guilhermerp16&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerp16&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermerp16&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <div>
 
